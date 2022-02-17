@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  echesec-cluster-policies:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-17T06:59:17.734860129Z"
+    description: A Helm chart for Kubernetes
+    digest: 77ac3e39aba965ae0b5eacefbba437e25fd7b95b0e3d90d538263d45facdd987
+    name: echesec-cluster-policies
+    type: application
+    urls:
+    - https://github.com/echesec/cluster-policies/echesec-cluster-policies-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-17T06:59:17.734302245Z"
