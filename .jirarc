@@ -1,0 +1,9 @@
+{
+	"projectName": "echesec",
+	"host":"echesec.atlassian.net/jira/software/projects/EC",
+	"protocol":"[default:http|https]",
+	"port": default:80,
+	"version": default:2,
+	"verbose": default:false,
+	"strictSSL": default:true
+}
